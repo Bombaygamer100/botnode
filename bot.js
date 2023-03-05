@@ -47,7 +47,7 @@ stage.register(comment)
 var regex = new RegExp('.*')
 const admin_id = 1868885213;
 const admin_id2 = 6074077795;
-var mongo_url = 'mongodb+srv://Shivanshmundra:<password>@cluster0.sdnkism.mongodb.net/test'; // Your Mongo URL Here
+var mongo_url = 'mongodb+srv://Beastcamp:<Shivansh21>@cluster0.vatjywx.mongodb.net/test'; // Your Mongo URL Here
 const buttonsLimit = {
     window: 1000,
     limit: 1,
